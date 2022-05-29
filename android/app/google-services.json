@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86062360257",
+    "project_id": "crypto-e952a",
+    "storage_bucket": "crypto-e952a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86062360257:android:45be369350815c10df1640",
+        "android_client_info": {
+          "package_name": "com.example.crypto_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86062360257-7hjnct28p0grf4dc1trt83dr0r9v8fvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KfKYeBu1VvKNrSX8-5TxV4nPktftj1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86062360257-7hjnct28p0grf4dc1trt83dr0r9v8fvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
