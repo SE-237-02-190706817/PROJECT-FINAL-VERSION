@@ -1,16 +1,8 @@
-# crypto_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![(0)](https://user-images.githubusercontent.com/101182640/171666159-e5dbd084-a381-4212-9f8a-f5fc23e9e949.jpeg)
+![(1)](https://user-images.githubusercontent.com/101182640/171666168-1cc3e3a0-fce9-4d87-b5be-be7d09bb0883.jpeg)
+![(2)](https://user-images.githubusercontent.com/101182640/171666178-15ef1b00-e6a6-4f48-88c8-4f5093a49348.jpeg)
+![(3)](https://user-images.githubusercontent.com/101182640/171666186-e3dac520-d802-424b-a967-cdca6b0a6feb.jpeg)
+![4](https://user-images.githubusercontent.com/101182640/171666197-d1d1873a-0d83-4b05-bd66-a44167d27d60.jpeg)
+![5](https://user-images.githubusercontent.com/101182640/171666210-bf4f9dab-c2a5-4b50-a761-3fe8ca467cb5.jpeg)
+![6](https://user-images.githubusercontent.com/101182640/171666227-12072c1e-5dbe-4b3e-84a7-46978a7b7b92.jpg)
+![7](https://user-images.githubusercontent.com/101182640/171666239-16534a71-05fd-475f-a929-243f3b7900a9.jpg)
